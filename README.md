@@ -109,7 +109,29 @@ Now a new secret was created automatically: Type: kubernetes.io/tls name ...-tls
 ```
 
 
-Now deploy the ingress resource
+
+## Renew A Certificate
+
+```
+kubectl get orders
+# delete the order
+
+kubectl get secrets
+# delete the tls secret
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
 
 
 
